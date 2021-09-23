@@ -6,7 +6,7 @@ positive impact on user experience.
 
 ### Quick Facts 💡👀
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **NodeJS**.
 - 💬 Ask me about **HTML5, CSS3 y JS**. 
 - 📫 How to reach me: https://www.linkedin.com/in/luimarvillegas/
 - 😄 Pronouns: She/her 👸
