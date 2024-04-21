@@ -1,14 +1,12 @@
 ## Hi there, I'm Luimar Villegas 👩‍💻👩‍🏫✨
 
-A curious junior front-end developer and a creative preschool teacher, it motivates me to combine science and art by simplifying its concept to
-translate visions into products that I´m proud of, generating a
-positive impact on user experience.
+I have the ability to turn big problems into small milestones by creating solutions that I solve with my fast learning and curious attitude, especially in collaborative environments considering myself as a team player.
 
 ### Quick Facts 💡👀
 
-- 🌱 I’m currently learning **NodeJS**.
-- 💬 Ask me about **HTML5, CSS3 y JS**. 
-- 📫 How to reach me: https://www.linkedin.com/in/luimarvillegas/
+- 🌱 I’m currently learning **Java**.
+- 💬 Ask me about **NodeJs, React, Js**. 
+- 📫 How to reach out to me: https://www.linkedin.com/in/luimarvillegas/
 - 😄 Pronouns: She/her 👸
 - ⚡ Fun fact: Sushi lover and dancer 💃💅🎶
 
